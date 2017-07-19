@@ -2,15 +2,30 @@ body{
 	background-color: #788C35;
 }
 .thumbnail{
-	min-width: 200px;
-	max-width: 200px;
+	width: 150px;
+	height: 220px;
 	box-sizing: border-box;
+}
+.artistThumbnail{
+	margin-top:40px;
 }
 .songList{
 	margin-top:100px;
-	background-color: white;
+	padding: 15px;
+	background-color: #85A328;
 	position:fixed;
+	border:3px solid #589126;
+	border-radius: 5px;
+}
+li{
+	list-style-type: none;
+}
+a{
+	color:white;
 }
 form{
-	margin:10px;
+	margin-top:30px;
+}
+.embed{
+	padding:30px;
 }
