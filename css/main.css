@@ -1,0 +1,16 @@
+body{
+	background-color: #788C35;
+}
+.thumbnail{
+	min-width: 200px;
+	max-width: 200px;
+	box-sizing: border-box;
+}
+.songList{
+	margin-top:100px;
+	background-color: white;
+	position:fixed;
+}
+form{
+	margin:10px;
+}
